@@ -17,7 +17,7 @@
  * AbstractClassifierTestCase.java
  * Copyright (C) 2013 University of Waikato, Hamilton, New Zealand
  */
-// comment safljdhb
+// comment
 package moa.classifiers;
 
 import java.io.BufferedReader;
